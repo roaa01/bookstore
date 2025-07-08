@@ -1,5 +1,4 @@
 
-// QuantumBookstoreFullTest.java
 public class Main {
     public static void main(String[] args) {
         QuantumBookstore store = new QuantumBookstore();

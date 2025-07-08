@@ -1,4 +1,4 @@
-// Book.java (Abstract Book and Subclasses)
+
 abstract class Book {
     protected String isbn, title, author;
     protected int year;

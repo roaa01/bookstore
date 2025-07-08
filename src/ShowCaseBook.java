@@ -8,7 +8,7 @@ class ShowCaseBook extends Book {
     }
 
     public double buy(int quantity, String email, String address) {
-        throw new RuntimeException("Quantum book store: Showcase books are not for sale");
+        throw new RuntimeException("Demo books are not for sale");
     }
 }
 
